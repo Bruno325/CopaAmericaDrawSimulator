@@ -2,7 +2,7 @@
 This Java program will allow you to randomly simulate the outcome of the Copa America 2024 draw that was held on December 7, 2023.
 
 Upon running this program, you will be provided with the following background information about the draw's setup:
-1. There are four pots with four teams in each of them based on their tournament accomplishments or FIFA rankings
+1. There are four pots with four teams, each of them based on their tournament accomplishments or FIFA rankings
 2. Pot 1 contains reigning Copa America and Gold Cup winners, as well as the highest-ranked CONCACAF and CONMEBOL teams based on the 2023 FIFA World Rankings
 3. The remaining teams were placed in Pots 2-4 based on their rankings in the 2023 Fifa World Rankings, with 2 CONCACAF teams from a play-in match to be played in March automatically placed in Pot 4
 
