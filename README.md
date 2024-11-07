@@ -20,3 +20,5 @@ Happy Simulating!
 Note: Two teams in the Copa America are yet to be determined. There will be two play-in games to be played on March 23, 2024. 
       Considering these games have not happened as of the time of posting this, I have assumed the outcomes of these games
       and added Canada and Costa Rica to the draw due to them being higher ranked than their opponents.
+
+November 7, 2024 Edit: Fixed bug where the draw could be incomplete if three groups had one CONCACAF team.
