@@ -10,7 +10,7 @@ The rules for the draw are as follows:
 1. Teams will be chosen in order of their pots. Every team in Pot 1 will be selected and placed in the first available group that does not already contain a team from Pot 1
 2. The same rules will follow for the rest of the pots. They will be placed in the first available group
 3. A group may not have more than 3 CONMEBOL teams or more than 2 CONCACAF teams
-4. If a group were to have more than 3 CONMEBOL or 2 CONCACAF teams, that team will be placed in the next alphabetically available group
+4. If a group were to have more than 3 CONMEBOL or 2 CONCACAF teams, that team will be placed in the next available group in alphabetical order
 
 Once prompted, you may press 'enter' on your keyboard. Upon doing so, you will receive a confirmation message of the team selected from a pot and the group they landed in.
 Repeat this until all teams have been selected and placed in their groups. Once done, you will be shown the results of the draw and what teams are in each group.
